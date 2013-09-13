@@ -706,9 +706,6 @@
                 <relationship kind="outlet" name="processingbutton" candidateClass="UIBarButtonItem"/>
             </relationships>
         </class>
-        <class className="ISMovieEncodeViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/ISMovieEncodeViewController.h"/>
-        </class>
         <class className="ISReplayCollectionViewCell" superclassName="UICollectionViewCell">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/ISReplayCollectionViewCell.h"/>
             <relationships>
